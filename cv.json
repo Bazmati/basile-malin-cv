@@ -1,0 +1,599 @@
+{
+  "basics": {
+    "name": "Basile Malin",
+    "label": "Développeur Fullstack Junior",
+    "image": "/me_avatar.jpg",
+    "email": "basilemalin@gmx.fr",
+    "phone": "+33 6 88 67 69 46",
+    "url": "https://johndoe.dev",
+    "summary": "Développeur Fullstack Junior passionné par les technologies web et les applications innovantes. Spécialisé dans le développement d'applications web modernes, je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences. Je travaille principalement entre Laval et Rennes.",
+    "theme": "yellow",
+    "location": {
+      "address": "",
+      "postalCode": "35500",
+      "city": "Balazé",
+      "countryCode": "FR",
+      "region": "France"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Bazmati",
+        "url": "https://github.com/Bazmati"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SARL Hydiac",
+      "position": "Concepteur Développeur d'Applications",
+      "location_type": "Sur site",
+      "location": "Rennes, France",
+      "url": "https://www.hydiac.com",
+      "startDate": "2022-11-08",
+      "endDate": "2024-11-08",
+      "summary": "Apprentissage en alternance en tant que Concepteur Développeur d'Applications. Développement d'applications web et mobiles pour l'entreprise et ses clients.",
+      "highlights": ["Amélioration des performances du site web grâce à l'optimisation du code."],
+      "responsibilities": [
+        "Conception et développement d'applications web et mobiles avec Symfony et Android Studio.",
+        "Débogage et optimisation du code front-end pour une meilleure expérience utilisateur.",
+        "Participation aux revues de code et contribution à l'amélioration des standards de codage."
+      ],
+      "achievements": [
+        "Création d'un gestionnaire de formation pour les stagiaires, clients et formateurs.",
+        "Développement d'une application de gestion des trajets pour les formateurs.",
+        "'Hydiachronos' : Application de gestion des opérations de nettoyage pour les collectivités."
+      ],
+      "skills": [
+        "Symfony",
+        "Bootstrap",
+        "Tailwind",
+        "JavaScript",
+        "MySQL",
+        "AndroidStudio",
+        "Swift",
+        "Symfony Ux",
+        "GitHub",
+        "UML"
+      ]
+    },
+    {
+      "name": "AvousLeWeb",
+      "position": "Développeur Junior",
+      "location_type": "Télétravail",
+      "location": "Rennes, France",
+      "url": "https://www.avousleweb.com",
+      "startDate": "2022-04-01",
+      "endDate": "2022-04-30",
+      "summary": "Stage pour la formation de Technicien Intégrateur Web. Développement d'une application web pour la gestion des projets internes de l'entreprise.",
+      "highlights": [
+        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+      ],
+      "responsibilities": [
+        "Développement d'une application web (dashboard) from scratch en php et MySQL permettant de récupérr l'ensemble des KPI nécéssaire à l'entreprise, récupérer les articles contenant les mot clés sur l'ensemble des sites internes et clients.",
+        "Réalisation du backend en php et utilisation d'un template bootstrap pour le frontend.",
+        "Participation à des réunions d'équipe pour discuter des progrès et des obstacles rencontrés."
+      ],
+      "achievements": [
+        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+      ],
+      "skills": [
+        "PHP",
+        "MySQL",
+        "Bootstrap",
+        "MySQL",
+        "Git"
+      ]
+    },
+    {
+      "name": "Carrières des Lacs",
+      "position": "Technicien de Maintenance Industrielle",
+      "location_type": "Sur site",
+      "location": "Saint-Aubin-des-Landes, France",
+      "startDate": "2019-12-01",
+      "endDate": "2020-12-31",
+      "summary": "Maintenance préventive et corrective des installations industrielles dans une carrière spécialisée dans l'extraction de gravières et sablières.",
+      "highlights": [
+        "Entretien des équipements fixes et mobiles utilisés pour l'extraction et le traitement des matériaux.",
+        "Optimisation des performances des machines pour améliorer la productivité."
+      ],
+      "responsibilities": [
+        "Diagnostic et réparation des pannes mécaniques, électriques et hydrauliques.",
+        "Mise en conformité des équipements selon les normes de sécurité.",
+        "Collaboration avec les équipes pour assurer la disponibilité des moyens de production."
+      ],
+      "skills": [
+        "Mécanique industrielle",
+        "Électricité industrielle",
+        "Hydraulique",
+        "Maintenance préventive"
+      ]
+    },    
+    {
+      "name": "SAS Pigeon Carrières",
+      "position": "Technicien de Maintenance Industrielle",
+      "location_type": "Sur site",
+      "location": "Argentré-du-Plessis, France",
+      "startDate": "2018-09-01",
+      "endDate": "2019-12-31",
+      "summary": "Entretien et maintenance des installations fixes et mobiles ainsi que des engins de travaux publics.",
+      "highlights": [
+        "Maintenance préventive et corrective sur des équipements industriels.",
+        "Optimisation des performances des installations dans le secteur des carrières."
+      ],
+      "responsibilities": [
+        "Diagnostic et réparation des pannes mécaniques et électriques.",
+        "Suivi des dossiers techniques et mise en conformité des équipements."
+      ],
+      "skills": [
+        "Mécanique industrielle",
+        "Électricité industrielle",
+        "Hydraulique"
+      ]
+    },
+    {
+      "name": "Matavicol",
+      "position": "Electrotechnicien",
+      "location_type": "Itinérant",
+      "location": "Argentré-du-Plessis, France",
+      "startDate": "2017-10-01",
+      "endDate": "20118-03-31",
+      "summary": "Monteur poseur de réseaux électriques et technicien de maintenance industrielle pour l'entreprise Matavicol, spécialisée dans les travaux d'électricité et de maintenance de voliaire industrielle.",
+      "highlights": [
+        "Montage de voliaire industrielle et installation de réseaux électriques."
+      ],
+      "responsibilities": [
+        "Montage des équipement élèctrique permettant le fonctionnement automatisé des voliaires"
+      ],
+      "skills": [
+        "Electrotechnicien",
+        "Mécanique industrielle"
+      ]
+    },
+    {
+      "name": "SARL Suire et Associés",
+      "position": "Prestataire de service en Maintenance Industrielle (Cooper Standard France)",
+      "location_type": "Sur site",
+      "location": "Vitré, France",
+      "startDate": "2011-10-01",
+      "endDate": "2017-10-31",
+      "summary": "Prestataire de sercivice en tant que métalier soudeur pour l'entreprise Cooper Standard France, spécialisée dans la fabrication de pièces automobiles.",
+      "highlights": [
+        "Participation à l'amélioration continue des processus industriels.",
+        "Expertise en soudure et implentation ligne de producion."
+      ],
+      "responsibilities": [
+        "Entretien des équipements industriels dans différents environnements.",
+        "Collaboration avec les équipes pour optimiser les processus de production."
+      ],
+      "skills": [
+        "Soudure industrielle",
+        "Mécanique industrielle",
+        "Amélioration continue"
+      ]
+    },
+    {
+      "name": "Gévelot Extrusion",
+      "position": "Technicien de mainenance industrielle",
+      "location_type": "Sur site",
+      "location": "Laval, France",
+      "startDate": "2011-04-01",
+      "endDate": "2011-10-31",
+      "summary": "Electromécanicien pour l'entreprise Gévelot Extrusion, spécialisée dans la fabrication de de pignonnerie pour l'industrie automobile.",
+      "highlights": [
+        "Participation à l'amélioration continue des processus industriels.",
+        "Entretien curatif et préventif des équipements de production."
+      ],
+      "responsibilities": [
+        "Entretien des équipements industriels",
+        "Collaboration avec les équipes pour optimiser les processus de production."
+      ],
+      "skills": [
+        "Soudure industrielle",
+        "Mécanique industrielle",
+        "Electrotechnicien",
+        "Amélioration continue"
+      ]
+    },
+    {
+      "name": "Secmair",
+      "position": "Technicien de mainenance industrielle",
+      "location_type": "Sur site",
+      "location": "Laval, France",
+      "startDate": "2011-02-01",
+      "endDate": "2011-04-31",
+      "summary": "Electromécanicien pour l'entreprise Gévelot Extrusion, spécialisée dans la fabrication de de pignonnerie pour l'industrie automobile.",
+      "highlights": [
+        "Participation à l'amélioration continue des processus industriels.",
+        "Entretien curatif et préventif des équipements de production."
+      ],
+      "responsibilities": [
+        "Entretien des équipements industriels",
+        "Collaboration avec les équipes pour optimiser les processus de production."
+      ],
+      "skills": [
+        "Soudure industrielle",
+        "Mécanique industrielle",
+        "Electrotechnicien",
+        "Amélioration continue"
+      ]
+    },
+    {
+      "name": "Kwizda France",
+      "position": "Technicien de mainenance industrielle",
+      "location_type": "Sur site",
+      "location": "Val d'izé, France",
+      "startDate": "2010-06-01",
+      "endDate": "2010-11-31",
+      "summary": "Electromécanicien pour l'entreprise Kwizda France, spécialisée dans la fabrication de produits phytosanitaires.",
+      "highlights": [
+        "Participation à l'amélioration continue des processus industriels.",
+        "Entretien curatif et préventif des équipements de production.",
+        "Mise en place du plan de maintenance préventive."
+      ],
+      "responsibilities": [
+        "Entretien des équipements industriels",
+        "Collaboration avec les équipes pour optimiser les processus de production.",
+        "Mise en place du plan de maintenance préventive.",
+        "Rédactioan des procédures de maintenance et process de conduite des ligne de production."
+      ],
+      "skills": [
+        "Soudure industrielle",
+        "Mécanique industrielle",
+        "Electrotechnicien",
+        "Amélioration continue"
+      ]
+    },
+    {
+      "name": "Gatines Viandes",
+      "position": "Technicien de mainenance industrielle",
+      "location_type": "Sur site",
+      "location": "La Guerche de Bretagne, France",
+      "startDate": "2010-01-01",
+      "endDate": "2008-01-01",
+      "summary": "Electromécanicien pour l'entreprise Gatines Viandes, spécialisée dans la fabrication de produits carnés.",
+      "highlights": [
+        "Participation à l'amélioration continue des processus industriels.",
+        "Entretien curatif et préventif des équipements de production.",
+        "Apprentissage des techniques de maintenance industrielle."
+      ],
+      "responsibilities": [
+        "Entretien des équipements industriels",
+        "Collaboration avec les équipes pour optimiser les processus de production."
+      ],
+      "skills": [
+        "Soudure industrielle",
+        "Mécanique industrielle",
+        "Electrotechnicien",
+        "Amélioration continue"
+      ]
+    },
+    {
+      "name": "Intérim",
+      "position": "Manutentionnaire et Agent de fabrication",
+      "location_type": "Sur site",
+      "location": "Pays de Vitré, France",
+      "startDate": "2007-12-01",
+      "endDate": "2004-01-01",
+      "summary": "Manutentionnaire et agent de fabrication pour différentes entreprises de la région de Vitré.",
+      "highlights": [
+        "Travail en équipe et respect des consignes de sécurité.",
+        "Apprentissage des techniques de production et de manutention."
+      ],
+      "responsibilities": [
+        
+      ],
+      "skills": [
+        
+      ]
+    }      
+  ],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ENI École Informatique, Chartres-de-Bretagne",
+      "url": "https://www.eni-ecole.fr/formations/developpement/niveau-6-bac3-concepteur-developpeur-dapplications/",
+      "area": "Concepteur Développeur d'Applications",
+      "studyType": "niveau 6 (Bac+4)",
+      "startDate": "2022-11-08",
+      "endDate": "2024-11-08",
+      "score": "3.8",
+      "courses": [
+        "CS101 - Introduction to Computer Science",
+        "CS102 - Data Structures"
+      ]
+    },
+    {
+      "institution": "Buroscope, Rennes",
+      "url": "https://buroscope.bzh/documents/DOC-FORMATION-121.pdf",
+      "area": "Technicien Intégrateur Web",
+      "studyType": "Titre professionnel niveau 5 (Bac+2)",
+      "startDate": "2021-09-01",
+      "endDate": "2022-09-01",
+      "score": "3.9",
+      "courses": [
+        "SE201 - Advanced Software Development",
+        "SE202 - Software Architecture and Design"
+      ]
+    },
+    {
+      "institution": "AFTEC, Vitré",
+      "url": "",
+      "area": "Technicien de Maintenance Industrielle",
+      "studyType": "Titre professionnel niveau 5 (Bac+2)",
+      "startDate": "2008",
+      "endDate": "2010",
+      "score": "4.0",
+      "courses": [
+        "Mécanique",
+        "Électricité",
+        "Hydraulique",
+        "Pneumatique"
+    ]
+    },
+    {
+      "institution": "Lycée Jean Jaurès, Rennes",
+      "area": "Maintenance des Systèmes Mécaniques et Automatisés",
+      "studyType": "Bac professionnel",
+      "startDate": "2003-09-01",
+      "endDate": "2004-06-30",
+      "score": "",
+      "courses": [
+        {
+          "name": "Technologies mécaniques",
+          "description": "Étude des systèmes mécaniques et automatisés, diagnostic et maintenance."
+        },
+        {
+          "name": "Électrotechnique",
+          "description": "Formation en électricité appliquée aux systèmes industriels."
+        }
+      ]
+    },
+    {
+      "institution": "Lycée Professionnel La Champagne, Vitré",
+      "area": "Électrotechnique",
+      "studyType": "BEP/CAP",
+      "startDate": "2001-09-01",
+      "endDate": "2003-06-30",
+      "score": "",
+      "courses": [
+        {
+          "name": "Bases en électrotechnique",
+          "description": "Installation et maintenance des systèmes électriques."
+        }
+      ]
+    }
+        
+  ],
+  "certificates": [
+    {
+      "name": "Concepteur Développeur d'Applications",
+      "date": "2024-11-08",
+      "issuer": "ENI école informatique",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    },
+    {
+      "name": "Techinicien Intégrateur Web",
+      "date": "2022-07-26",
+      "issuer": "Buroscope",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": [
+        "Design",
+        "UI"
+      ]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Symfony",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Backend / Frontend",
+        "PHP Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Intermediate",
+      "keywords": [
+        "Command Line",
+        "Shell Scripting",
+        "System Administration",
+        "Networking",
+        "Security"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Développement personnel",
+      "keywords": ["Lecture", "Formation continue", "Technologies émergentes"]
+    },
+    {
+      "name": "Sports",
+      "keywords": ["Cyclisme", "Randonnée", "Natation"]
+    }
+  ],
+  "references": [
+
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio",
+      "isActive": false,
+      "description": "Un site web static de portfolio personnel pour présenter mes projets et compétences.",
+      "highlights": [
+        "Construit avec React et Tailwind CSS",
+        "Inclut un blog et un formulaire de contact"
+      ],
+      "url": "https://johndoe.dev",
+      "github": "https://github.com/Bazmati"
+    },
+    {
+      "name": "Weather App",
+      "isActive": true,
+      "description": "Une application web qui fournit des informations météorologiques pour n'importe quel endroit.",
+      "highlights": [
+        "Construit avec JavaScript et l'API OpenWeatherMap",
+        "Design responsive"
+      ],
+      "url": "https://weatherapp.com"
+    },
+    {
+      "name": "Task Manager",
+      "isActive": true,
+      "description": "Une application simple de gestion des tâches pour suivre les tâches quotidiennes.",
+      "highlights": [
+        "Construit avec Node.js et MongoDB",
+        "Authentification des utilisateurs et opérations CRUD"
+      ],
+      "url": "https://taskmanager.com",
+      "github": "https://github.com"
+    },
+    {
+      "name": "E-commerce Site",
+      "isActive": true,
+      "description": "Un site de commerce électronique complet avec gestion des produits et des commandes.",
+      "highlights": [
+        "Construit avec Django et PostgreSQL",
+        "Intégration de passerelles de paiement"
+      ],
+      "url": "https://ecommerce.com",
+      "github": "https://github.com/Bazmati/ecommerce"
+    }
+  ]
+}
