@@ -562,38 +562,6 @@
       ],
       "url": "https://johndoe.dev",
       "github": "https://github.com/Bazmati"
-    },
-    {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "Une application web qui fournit des informations météorologiques pour n'importe quel endroit.",
-      "highlights": [
-        "Construit avec JavaScript et l'API OpenWeatherMap",
-        "Design responsive"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "Une application simple de gestion des tâches pour suivre les tâches quotidiennes.",
-      "highlights": [
-        "Construit avec Node.js et MongoDB",
-        "Authentification des utilisateurs et opérations CRUD"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": true,
-      "description": "Un site de commerce électronique complet avec gestion des produits et des commandes.",
-      "highlights": [
-        "Construit avec Django et PostgreSQL",
-        "Intégration de passerelles de paiement"
-      ],
-      "url": "https://ecommerce.com",
-      "github": "https://github.com/Bazmati/ecommerce"
     }
   ]
 }
