@@ -525,7 +525,7 @@
     },
     {
       "name": "MySQL",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Databases",
         "SQL",
@@ -565,7 +565,7 @@
     },
     {
       "name": "Linux",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Command Line",
         "Shell Scripting",
