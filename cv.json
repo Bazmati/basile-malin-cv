@@ -5,7 +5,7 @@
     "image": "me_avatar.jpg",
     "email": "basilemalin@gmx.fr",
     "phone": "+33 6 88 67 69 46",
-    "url": "https://bazmati.github.io/cv/",
+    "url": "https://bazmati.github.io/basile-malin-cv/",
     "summary": "CV Basile MALIN, Développeur Fullstack Junior passionné par les technologies web et les applications innovantes. Spécialisé dans le développement d'applications web modernes, je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences. Je travaille principalement entre Laval et Rennes.",
     "theme": "yellow",
     "location": {
@@ -607,7 +607,7 @@
         "Construit avec React et Tailwind CSS",
         "Inclut un blog et un formulaire de contact"
       ],
-      "url": "https://bazmati.github.io/cv/",
+      "url": "https://bazmati.github.io/basile-malin-cv/",
       "github": "https://github.com/Bazmati"
     }
   ]
