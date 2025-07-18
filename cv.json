@@ -5,8 +5,8 @@
     "image": "me_avatar.jpg",
     "email": "basilemalin@gmx.fr",
     "phone": "+33 6 88 67 69 46",
-    "url": "https://johndoe.dev",
-    "summary": "Développeur Fullstack Junior passionné par les technologies web et les applications innovantes. Spécialisé dans le développement d'applications web modernes, je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences. Je travaille principalement entre Laval et Rennes.",
+    "url": "https://bazmati.github.io/cv/",
+    "summary": "CV Basile MALIN, Développeur Fullstack Junior passionné par les technologies web et les applications innovantes. Spécialisé dans le développement d'applications web modernes, je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences. Je travaille principalement entre Laval et Rennes.",
     "theme": "yellow",
     "location": {
       "address": "",
@@ -600,14 +600,14 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "CV Basile MALIN",
       "isActive": false,
       "description": "Un site web static de portfolio personnel pour présenter mes projets et compétences.",
       "highlights": [
         "Construit avec React et Tailwind CSS",
         "Inclut un blog et un formulaire de contact"
       ],
-      "url": "https://johndoe.dev",
+      "url": "https://bazmati.github.io/cv/",
       "github": "https://github.com/Bazmati"
     }
   ]
