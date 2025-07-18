@@ -25,6 +25,53 @@
   },
   "work": [
     {
+      "name": "EI ORRIERE DAMIEN ",
+      "position": "MANOEUVRE",
+      "location_type": "Sur site",
+      "location": "ST M HERVE, France",
+      "url": "",
+      "startDate": "2025-03-12",
+      "endDate": "now",
+      "summary": "Missin d'interim avec Adeva interim",
+      "highlights": [""],
+      "responsibilities": [
+        "Montage de charpente agricole"
+      ],
+      "achievements": [
+      ],
+      "skills": [
+        "Techniques de construction et d’assemblage : réaliser l’assemblage, le montage et le levage des structures bois (charpentes, ossatures, poutres…) en respectant les techniques traditionnelles et industrielles.",
+        "Lecture de plans et schémas : interpréter les plans d’exécution, les schémas de montage et les notices techniques pour réaliser les structures conformément aux spécifications du projet.",
+        "Utilisation des outils et machines : manipuler les outils manuels (scies, perceuses, visseuses) et les machines (scies à onglet, défonceuses) pour la découpe, l’assemblage et le montage des éléments de charpente.",
+        "Implantation et organisation du chantier : préparer et installer le poste de travail, organiser le transport et la logistique des matériaux, mettre en place et utiliser les équipements de levage (échafaudages, chariots élévateurs).", 
+        "Respect des règles de sécurité : appliquer strictement les consignes de sécurité, normes DTU, et prescriptions liées au chantier agricole (conditions extérieures, travail en hauteur…).",
+        "Capacité physique et habileté : supporter le travail en extérieur, porter de lourdes charges, travailler en hauteur et endurer des conditions météorologiques variées.",
+        "Sens de l’espace et du calcul : bien se représenter les volumes, maîtriser la géométrie pour élaborer et vérifier les structures implantées.",
+        "Utilisation de l’informatique et logiciels spécialisés : utiliser les outils de conception assistée par ordinateur (DAO/CFAO) pour la préparation et la fabrication des éléments.",
+        "Travail en équipe et communication : collaborer avec différents corps de métier, rendre compte à la hiérarchie, et échanger efficacement avec les clients ou fournisseurs."
+      ]
+    },
+    {
+      "name": "BACKUS LOGISTICS ",
+      "position": "MANUTENTIONNAIRE",
+      "location_type": "Sur site",
+      "location": "Etrelles, France",
+      "url": "https://www.lockwine.fr/",
+      "startDate": "2024-12-10",
+      "endDate": "2024-12-21",
+      "summary": "Missin d'interim avec Samsic interim",
+      "highlights": [""],
+      "responsibilities": [
+        "Mise en rayon des produits."
+      ],
+      "achievements": [
+      ],
+      "skills": [
+        "Manutentionnaire",
+        "Travail en équipe"
+      ]
+    },
+    {
       "name": "SARL Hydiac",
       "position": "Concepteur Développeur d'Applications",
       "location_type": "Sur site",
