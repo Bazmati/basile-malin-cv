@@ -155,6 +155,27 @@ const { image, summary, url, theme } = basics;
 					gap: 0.5rem !important;
 				}
 
+				/* Optimiser la section Hero/About pour impression */
+				.print .space-y-6 {
+					margin-bottom: 0.5rem !important;
+				}
+
+				/* Réduire la taille des éléments dans Hero pour impression */
+				.print .text-4xl {
+					font-size: 1.5rem !important; /* Réduction de la taille du titre */
+					line-height: 1.2 !important;
+				}
+
+				.print .text-xl {
+					font-size: 1rem !important; /* Réduction de la taille du sous-titre */
+				}
+
+				/* Optimiser les paragraphes pour impression */
+				.print p {
+					margin-bottom: 0.25rem !important;
+					line-height: 1.2 !important;
+				}
+
 				/* Masquer les éléments interactifs */
 				button, .theme-switch, .keyboard-hints {
 					display: none !important;
