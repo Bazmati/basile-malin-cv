@@ -118,8 +118,69 @@ const { image, summary, url, theme } = basics;
 					display: none !important;
 				}
 
-				article {
+				/* Améliorations pour l'impression */
+				body {
+					font-size: 12px;
+					line-height: 1.4;
+					color: black !important;
+					background: white !important;
+				}
+
+				/* Éviter les coupures de sections */
+				article, section, .section {
 					break-inside: avoid;
+					page-break-inside: avoid;
+				}
+
+				/* Sauts de page intelligents */
+				h1, h2, h3 {
+					break-after: avoid;
+					page-break-after: avoid;
+				}
+
+				/* Marges d'impression optimisées */
+				@page {
+					margin: 1.5cm 2cm;
+					size: A4;
+				}
+
+				/* Espacement optimisé pour impression */
+				.space-y-6 > * + * {
+					margin-top: 1rem !important;
+				}
+
+				.space-y-12 > * + * {
+					margin-top: 1.5rem !important;
+				}
+
+				/* Grille adaptée pour impression */
+				.print-grid-2 {
+					display: grid !important;
+					grid-template-columns: 1fr 1fr !important;
+					gap: 1rem !important;
+				}
+
+				.print-grid-3 {
+					display: grid !important;
+					grid-template-columns: 1fr 1fr 1fr !important;
+					gap: 0.75rem !important;
+				}
+
+				/* Liens et interactions pour impression */
+				a {
+					text-decoration: none !important;
+					color: black !important;
+				}
+
+				a[href]:after {
+					content: " (" attr(href) ")";
+					font-size: 0.8em;
+					color: #666;
+				}
+
+				/* Masquer les éléments interactifs */
+				button, .theme-switch, .keyboard-hints {
+					display: none !important;
 				}
 			}
 		</style>

@@ -16,18 +16,25 @@ const { name, label } = basics;
 ---
 
 <Layout title={`${name} curriculum vitae & Portafolio - ${label}`}>
-	<main class="relative grid max-w-7xl gap-12 p-8 max-sm:py-16 md:grid-cols-6 md:p-16 xl:gap-24 print:max-w-none print:grid-cols-1 print:gap-6">
-		<div class="space-y-6 md:col-span-2 print:col-span-1 print:grid print:grid-cols-2 print:gap-5 print:space-y-0">
+	<main class="relative grid max-w-7xl gap-12 p-8 max-sm:py-16 md:grid-cols-6 md:p-16 xl:gap-24 print:max-w-none print:block print:space-y-8 print:p-0">
+		<!-- Section Informations personnelles -->
+		<div class="space-y-6 md:col-span-2 print:print-grid-2 print:gap-6 print:mb-8">
 			<Hero />
 			<About />
-			<ThemeSwitch />
 		</div>
-		<div class="space-y-12 md:col-span-4 print:col-span-1 print:grid print:grid-cols-4 print:gap-2 print:space-y-0">
-			<Experience className="print:col-span-3" />
-			<Projects className="print:hidden" />
-			<Skills className="print:hidden" />
-			<Education className="order-first" />
+
+		<!-- Section Expérience et Formation -->
+		<div class="space-y-12 md:col-span-4 print:space-y-8">
+			<Education className="print:mb-6" />
+			<Experience className="print:print-grid-3 print:gap-4" />
 		</div>
+
+		<!-- Section Complémentaire (masquée en impression) -->
+		<div class="md:col-span-6 print:hidden">
+			<Projects />
+			<Skills />
+		</div>
+
 		<Tail />
 	</main>
 
