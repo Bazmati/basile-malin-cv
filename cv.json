@@ -122,7 +122,8 @@
         "Participation à des réunions d'équipe pour discuter des progrès et des obstacles rencontrés."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Implémentation d'une fonctionnalité d'authentification utilisateur renforcée, améliorant significativement la sécurité du système.",
+        "Développement d'un crawler avec certificat SSL permettant l'indexation automatique des mots-clés sur l'ensemble des sites et blogs de l'entreprise, facilitant la création de liens pertinents pour les sites clients."
       ],
       "skills": [
         "PHP",

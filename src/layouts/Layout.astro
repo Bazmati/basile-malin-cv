@@ -118,10 +118,10 @@ const { image, summary, url, theme } = basics;
 					display: none !important;
 				}
 
-				/* Améliorations subtiles pour l'impression */
+				/* Améliorations optimisées pour l'impression */
 				body {
-					font-size: 11px; /* Légère réduction pour économiser l'espace */
-					line-height: 1.4;
+					font-size: 12px; /* Taille de police optimisée pour la lisibilité */
+					line-height: 1.3; /* Réduction de l'interligne pour économiser l'espace */
 				}
 
 				/* Éviter les coupures de sections importantes */
@@ -134,16 +134,25 @@ const { image, summary, url, theme } = basics;
 				h1, h2, h3, h4 {
 					break-after: avoid;
 					page-break-after: avoid;
-					margin-bottom: 0.5rem !important;
+					margin-bottom: 0.25rem !important; /* Réduction des marges */
 				}
 
-				/* Optimiser l'espacement pour impression */
+				/* Optimiser l'espacement pour impression - plus compact */
 				.space-y-6 > * + * {
-					margin-top: 0.75rem !important;
+					margin-top: 0.5rem !important; /* Réduction de l'espacement */
 				}
 
 				.space-y-12 > * + * {
-					margin-top: 1rem !important;
+					margin-top: 0.75rem !important; /* Réduction de l'espacement */
+				}
+
+				/* Réduire les gaps pour gagner de l'espace */
+				.gap-12 {
+					gap: 0.75rem !important;
+				}
+
+				.gap-6 {
+					gap: 0.5rem !important;
 				}
 
 				/* Masquer les éléments interactifs */
@@ -151,10 +160,44 @@ const { image, summary, url, theme } = basics;
 					display: none !important;
 				}
 
-				/* Conserver les couleurs mais assurer le contraste */
-				* {
-					color: black !important;
-					background: white !important;
+				/* Grille adaptée pour impression */
+				.print-grid-2 {
+					display: grid !important;
+					grid-template-columns: 1fr 1fr !important;
+					gap: 0.75rem !important;
+				}
+
+				.print-grid-3 {
+					display: grid !important;
+					grid-template-columns: 1fr 1fr 1fr !important;
+					gap: 0.5rem !important;
+				}
+
+				/* Forcer l'affichage des images */
+				img {
+					display: block !important;
+					max-width: 100% !important;
+					height: auto !important;
+				}
+
+				/* Optimiser les listes pour gagner de l'espace */
+				ul, ol {
+					margin: 0.25rem 0 !important;
+					padding-left: 1rem !important;
+				}
+
+				li {
+					margin-bottom: 0.125rem !important;
+				}
+
+				/* Réduire les padding des sections */
+				.p-8 {
+					padding: 0.5rem !important;
+				}
+
+				.py-16 {
+					padding-top: 1rem !important;
+					padding-bottom: 1rem !important;
 				}
 			}
 		</style>
