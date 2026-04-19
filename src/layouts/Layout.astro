@@ -118,69 +118,43 @@ const { image, summary, url, theme } = basics;
 					display: none !important;
 				}
 
-				/* Améliorations pour l'impression */
+				/* Améliorations subtiles pour l'impression */
 				body {
-					font-size: 12px;
+					font-size: 11px; /* Légère réduction pour économiser l'espace */
 					line-height: 1.4;
-					color: black !important;
-					background: white !important;
 				}
 
-				/* Éviter les coupures de sections */
+				/* Éviter les coupures de sections importantes */
 				article, section, .section {
 					break-inside: avoid;
 					page-break-inside: avoid;
 				}
 
-				/* Sauts de page intelligents */
-				h1, h2, h3 {
+				/* Sauts de page intelligents pour les titres */
+				h1, h2, h3, h4 {
 					break-after: avoid;
 					page-break-after: avoid;
+					margin-bottom: 0.5rem !important;
 				}
 
-				/* Marges d'impression optimisées */
-				@page {
-					margin: 1.5cm 2cm;
-					size: A4;
-				}
-
-				/* Espacement optimisé pour impression */
+				/* Optimiser l'espacement pour impression */
 				.space-y-6 > * + * {
-					margin-top: 1rem !important;
+					margin-top: 0.75rem !important;
 				}
 
 				.space-y-12 > * + * {
-					margin-top: 1.5rem !important;
-				}
-
-				/* Grille adaptée pour impression */
-				.print-grid-2 {
-					display: grid !important;
-					grid-template-columns: 1fr 1fr !important;
-					gap: 1rem !important;
-				}
-
-				.print-grid-3 {
-					display: grid !important;
-					grid-template-columns: 1fr 1fr 1fr !important;
-					gap: 0.75rem !important;
-				}
-
-				/* Liens et interactions pour impression */
-				a {
-					text-decoration: none !important;
-					color: black !important;
-				}
-
-				a[href]:after {
-					content: " (" attr(href) ")";
-					font-size: 0.8em;
-					color: #666;
+					margin-top: 1rem !important;
 				}
 
 				/* Masquer les éléments interactifs */
 				button, .theme-switch, .keyboard-hints {
 					display: none !important;
+				}
+
+				/* Conserver les couleurs mais assurer le contraste */
+				* {
+					color: black !important;
+					background: white !important;
 				}
 			}
 		</style>
